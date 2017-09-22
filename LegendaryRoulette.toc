@@ -1,0 +1,7 @@
+﻿## Interface: 70300
+## Title: Legendary Roulette
+## Version: 1.0.0
+## Author: Yolofant
+## Notes: Fake legendary gamble
+
+LegendaryRoulette.lua
